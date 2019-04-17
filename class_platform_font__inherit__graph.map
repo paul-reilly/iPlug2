@@ -1,0 +1,6 @@
+<map id="PlatformFont" name="PlatformFont">
+<area shape="rect" id="node2" href="$class_core_text_font.html" title="CoreTextFont" alt="" coords="5,80,107,107"/>
+<area shape="rect" id="node3" href="$class_i_graphics_web_1_1_web_font.html" title="IGraphicsWeb::WebFont" alt="" coords="131,80,297,107"/>
+<area shape="rect" id="node5" href="$class_i_graphics_win_1_1_win_font.html" title="IGraphicsWin::WinFont" alt="" coords="322,80,480,107"/>
+<area shape="rect" id="node4" href="$class_i_graphics_web_1_1_web_file_font.html" title="IGraphicsWeb::WebFileFont" alt="" coords="121,155,308,181"/>
+</map>
